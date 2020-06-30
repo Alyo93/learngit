@@ -1,1 +1,1 @@
-license test1
+license test
