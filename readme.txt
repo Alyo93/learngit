@@ -1,3 +1,5 @@
 creating a new branch is quick and simple.
-this branch is master.
+fix bug 101.
+git is a free software.
+
 
